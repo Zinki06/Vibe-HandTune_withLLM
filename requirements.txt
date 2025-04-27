@@ -1,0 +1,8 @@
+openai==1.16
+python-dotenv
+sounddevice==0.5.1
+numpy
+mido[ports-rtmidi]
+opencv-python
+mediapipe==0.10.21
+python-osc 

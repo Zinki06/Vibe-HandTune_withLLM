@@ -1,0 +1,39 @@
+# 환경 및 가상 환경
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 운영체제 관련
+.DS_Store
+Thumbs.db
+
+# IDE 관련
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 문서 및 계획 폴더 (요청에 따라)
+dev_plan/
+docs/
+INF/ 
