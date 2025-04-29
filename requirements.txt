@@ -5,4 +5,5 @@ numpy
 mido[ports-rtmidi]
 opencv-python
 mediapipe==0.10.21
-python-osc 
+python-osc
+pillow>=9.0.0 

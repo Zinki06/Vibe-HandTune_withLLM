@@ -2,23 +2,63 @@
     "emotions": {
         "1": {
             "name": "슬픔",
-            "preset": {}
+            "preset": {
+                "key": "A Minor",
+                "tempo": 70,
+                "style": "Ambient",
+                "rhythm": "long sustain",
+                "notes": ["A1", "E2", "A2", "C3"],
+                "octave": 2,
+                "description": "느리고 우울한 분위기의 베이스 라인"
+            }
         },
         "2": {
             "name": "평온",
-            "preset": {}
+            "preset": {
+                "key": "G Major",
+                "tempo": 90,
+                "style": "Chill",
+                "rhythm": "smooth quarter notes",
+                "notes": ["G2", "B2", "D3", "G3"],
+                "octave": 2,
+                "description": "부드럽고 차분한 베이스 진행"
+            }
         },
         "3": {
             "name": "중립",
-            "preset": {}
+            "preset": {
+                "key": "C Major",
+                "tempo": 100,
+                "style": "Pop",
+                "rhythm": "steady eighth notes",
+                "notes": ["C2", "G2", "C3", "E3"],
+                "octave": 2,
+                "description": "균형 잡힌 일반적인 베이스 패턴"
+            }
         },
         "4": {
             "name": "행복",
-            "preset": {}
+            "preset": {
+                "key": "D Major",
+                "tempo": 120,
+                "style": "Funk",
+                "rhythm": "syncopated eighth notes",
+                "notes": ["D2", "A2", "D3", "F#3"],
+                "octave": 2,
+                "description": "경쾌하고 흥겨운 베이스 그루브"
+            }
         },
         "5": {
             "name": "흥분",
-            "preset": {}
+            "preset": {
+                "key": "E Minor",
+                "tempo": 140,
+                "style": "Dance",
+                "rhythm": "driving sixteenth notes",
+                "notes": ["E2", "B2", "E3", "G3"],
+                "octave": 2,
+                "description": "빠르고 에너지 넘치는 베이스 라인"
+            }
         }
     }
 } 

@@ -18,7 +18,7 @@
 
 ## 🛠️ 기술 스택
 
-*   **파이썬 버전:** Python 3.12.2
+*   **파이썬 버전:** Python 3.11.11
 *   **핵심 라이브러리:**
     *   **AI:** `openai` (Whisper, GPT-4o)
     *   **오디오:** `sounddevice`
