@@ -1,0 +1,19 @@
+{
+    "camera_id": 1,
+    "width": 640,
+    "height": 480,
+    "flip_horizontal": true,
+    "min_detection_confidence": 0.7,
+    "min_tracking_confidence": 0.5,
+    "max_hands": 2,
+    "smooth_landmarks": true,
+    "comments": {
+        "camera_id": "사용할 카메라 ID (-1: 자동 감지, 0,1,2...: 특정 카메라)",
+        "flip_horizontal": "웹캠 이미지 좌우반전 여부 (true: 좌우반전 적용)",
+        "width/height": "카메라 해상도",
+        "min_detection_confidence": "손 감지 신뢰도 임계값 (0.0~1.0)",
+        "min_tracking_confidence": "손 추적 신뢰도 임계값 (0.0~1.0)",
+        "max_hands": "최대 감지할 손 개수",
+        "smooth_landmarks": "랜드마크 좌표 스무딩 적용 여부"
+    }
+} 
